@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/Tug/express-autoload.git"
+    "url": "http://github.com:Mirocow/express-autoload.git"
   },
   "dependencies": {
     "connect": "2.6.0",
